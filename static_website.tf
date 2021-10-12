@@ -4,5 +4,5 @@ module "static-site" {
   bucket_versioning = true
   hosted_zone_name  = "thecloudcollege.com"
   name_prefix       = "var.student_name"
-  site_name         = "var.student_name.thecloudcollege.com"
+  site_name         = "ceiv001.thecloudcollege.com"
 }
